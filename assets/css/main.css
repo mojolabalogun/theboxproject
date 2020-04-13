@@ -37,6 +37,13 @@ ol, ul {
 	list-style: none;
 }
 
+.content img {
+	width: auto;
+	height: auto;
+	max-width: 100%;
+	overflow: hidden;
+}
+
 blockquote, q {
 	quotes: none;
 }
